@@ -1,41 +1,21 @@
-Redeemer
-Methodology
+# Redeemer
+
+## Methodology
+1. Enumeration (Port scanning)
+2. Service Identification (Redis)
+3. Authentication (unauthorized access)
+4. Data Extraction
 
 
-Enumeration (Port scanning)
-
-
-Service Identification (Redis)
-
-
-Authentication (unauthorized access)
-
-
-Data Extraction
-
-
-Tools Used
-
-
-Nmap
-
-
-Redis CLI
-
-
-Key Concepts
-
-
-Open Redis service
-
-
-No authentication required
-
-
-Database enumeration
-
-
-Retrieving stored keys
+## Tools Used
+1. Nmap
+2. Redis CLI
+   
+## Key Concepts
+1. Open Redis service
+2. No authentication required
+3. Database enumeration
+4. Retrieving stored keys
 
 
 Summary
