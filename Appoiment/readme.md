@@ -1,1 +1,1 @@
-Appoiment
+Appointment
